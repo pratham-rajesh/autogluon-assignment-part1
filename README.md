@@ -53,7 +53,7 @@ Each notebook includes **full outputs**, **artifacts**, and **environment snapsh
 | California Housing Prices | _[https://youtu.be/aWUTHhYEmR0]_ |
 | Tabular Quick Start | _[(https://youtu.be/l1GJeEGTe74)]_ |
 | Multimodal Tabular | _[https://youtu.be/7NW-97kBCrE]_ |
-| Feature Engineering | _[Paste video link]_ |
+| Feature Engineering | _[https://youtu.be/cmFPOd2ZxDU]_ |
 
 ---
 
