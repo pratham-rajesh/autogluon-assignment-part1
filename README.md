@@ -49,7 +49,7 @@ Each notebook includes **full outputs**, **artifacts**, and **environment snapsh
 
 | Notebook | Video Link |
 |:--|:--|
-| IEEE Fraud Detection | _[Paste video link]_ |
+| IEEE Fraud Detection | _[(https://youtu.be/dGSvpzTpMEg)]_ |
 | California Housing Prices | _[Paste video link]_ |
 | Tabular Quick Start | _[Paste video link]_ |
 | Multimodal Tabular | _[Paste video link]_ |
